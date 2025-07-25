@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "Asia",
+    "budget": 100,
+    "travelType": "Beach",
+    "bestTime": "April - October",
+    "activities": [
+      "Surfing",
+      "Temple Visits",
+      "Rice Terraces"
+    ],
+    "weather": "Tropical",
+    "travelTips": [
+      "Use local SIM cards",
+      "Rent a scooter",
+      "Avoid rainy season"
+    ],
+    "recommendedActivities": [
+      {
+        "name": "Ubud Monkey Forest",
+        "description": "Experience the delight of Ubud Monkey Forest during your trip.",
+        "imageUrl": "/images/activities/ubud_monkey_forest.jpg"
+      },
+      {
+        "name": "Snorkeling",
+        "description": "Experience the delight of Snorkeling during your trip.",
+        "imageUrl": "/images/activities/snorkeling.jpg"
+      },
+      {
+        "name": "Tanah Lot Temple",
+        "description": "Experience the delight of Tanah Lot Temple during your trip.",
+        "imageUrl": "/images/activities/tanah_lot_temple.jpg"
+      },
+      {
+        "name": "Beach yoga",
+        "description": "Experience the delight of Beach yoga during your trip.",
+        "imageUrl": "/images/activities/beach_yoga.jpg"
+      },
+      {
+        "name": "Scuba diving",
+        "description": "Experience the delight of Scuba diving during your trip.",
+        "imageUrl": "/images/activities/scuba_diving.jpg"
+      },
+      {
+        "name": "Sunset cruise",
+        "description": "Experience the delight of Sunset cruise during your trip.",
+        "imageUrl": "/images/activities/sunset_cruise.jpg"
+      }
+    ],
+    "imageUrl": "/images/Bali.jpg",
+    "coordinates": {
+      "lat": -8.3405,
+      "lng": 115.092
+    },
+    "weatherDescription": "Bali experiences a tropical climate with two distinct seasons. The dry season (April to October) offers sunny days, while the wet season (November to March) brings more rainfall."
+  },
+  {
+    "id": 2,
+    "name": "Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "budget": 800,
+    "travelType": "City",
+    "bestTime": "March - May, September - October",
+    "activities": [
+      "Historic Tours",
+      "Tram Rides",
+      "Beaches"
+    ],
+    "weather": "Mild",
+    "travelTips": [
+      "Use public transportation",
+      "Wear comfortable shoes for hills"
+    ],
+    "recommendedActivities": [
+      {
+        "name": "Museum day pass",
+        "description": "Experience the delight of Museum day pass during your trip.",
+        "imageUrl": "/images/activities/museum_day_pass.jpg"
+      },
+      {
+        "name": "Walking food tour",
+        "description": "Experience the delight of Walking food tour during your trip.",
+        "imageUrl": "/images/activities/walking_food_tour.jpg"
+      },
+      {
+        "name": "Rooftop bar experience",
+        "description": "Experience the delight of Rooftop bar experience during your trip.",
+        "imageUrl": "/images/activities/rooftop_bar_experience.jpg"
+      },
+      {
+        "name": "Tram 28 Ride",
+        "description": "Experience the delight of Tram 28 Ride during your trip.",
+        "imageUrl": "/images/activities/tram_28_ride.jpg"
+      },
+      {
+        "name": "Bel\u00e9m Tower",
+        "description": "Experience the delight of Bel\u00e9m Tower during your trip.",
+        "imageUrl": "/images/activities/belem_tower.jpg"
+      }
+    ],
+    "imageUrl": "/images/Lisbon.jpg",
+    "coordinates": {
+      "lat": 38.7223,
+      "lng": -9.1393
+    },
+    "weatherDescription": "Lisbon enjoys a mild Mediterranean climate. Summers are hot and dry, while winters are cool and rainy. The shoulder seasons are particularly pleasant for travel."
+  }
+]

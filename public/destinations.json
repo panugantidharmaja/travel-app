@@ -1,0 +1,901 @@
+[
+  {
+    "id": 1,
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "Asia",
+    "budget": 100,
+    "travelType": "Beach",
+    "bestTime": "April - October",
+    "activities": [
+      "Surfing",
+      "Temple Visits",
+      "Rice Terraces"
+    ],
+    "weather": "Tropical",
+    "travelTips": [
+      "Use local SIM cards",
+      "Rent a scooter",
+      "Avoid rainy season"
+    ],
+    "recommendedActivities": [
+      {
+        "name": "Ubud Monkey Forest",
+        "description": "Experience the delight of Ubud Monkey Forest during your trip.",
+        "imageUrl": "/images/activities/Ubud Monkey Forest.jpg"
+      },
+      {
+        "name": "Snorkeling",
+        "description": "Experience the delight of Snorkeling during your trip.",
+        "imageUrl": "/images/activities/snorkling.jpg"
+      },
+      {
+        "name": "Tanah Lot Temple",
+        "description": "Experience the delight of Tanah Lot Temple during your trip.",
+        "imageUrl": "/images/activities/Tonah lot.jpg"
+      },
+      {
+        "name": "Beach yoga",
+        "description": "Experience the delight of Beach yoga during your trip.",
+        "imageUrl": "/images/activities/beach-yoga.jpg"
+      },
+      {
+        "name": "Scuba diving",
+        "description": "Experience the delight of Scuba diving during your trip.",
+        "imageUrl": "/images/activities/scuba-diving.jpg"
+      },
+      {
+        "name": "Sunset cruise",
+        "description": "Experience the delight of Sunset cruise during your trip.",
+        "imageUrl": "/images/activities/sunset-cruise.jpg"
+      }
+    ],
+    "imageUrl": "/images/Bali.jpg",
+    "coordinates": {
+      "lat": -8.3405,
+      "lng": 115.092
+    },
+    "weatherDescription": "Bali experiences a tropical climate with two distinct seasons. The dry season (April to October) offers sunny days, while the wet season (November to March) brings more rainfall."
+  },
+  {
+    "id": 2,
+    "name": "Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "budget": 800,
+    "travelType": "City",
+    "bestTime": "March - May, September - October",
+    "activities": [
+      "Historic Tours",
+      "Tram Rides",
+      "Beaches"
+    ],
+    "weather": "Mild",
+    "travelTips": [
+      "Use public transportation",
+      "Wear comfortable shoes for hills"
+    ],
+    "recommendedActivities": [
+      {
+        "name": "Museum day pass",
+        "description": "Experience the delight of Museum day pass during your trip.",
+        "imageUrl": "/images/activities/museum-day-pass.jpg"
+      },
+      {
+        "name": "Walking food tour",
+        "description": "Experience the delight of Walking food tour during your trip.",
+        "imageUrl": "/images/activities/food-walk-tour.jpg"
+      },
+      {
+        "name": "Rooftop bar experience",
+        "description": "Experience the delight of Rooftop bar experience during your trip.",
+        "imageUrl": "/images/activities/roof-top-bar.jpg"
+      },
+      {
+        "name": "Tram 28 Ride",
+        "description": "Experience the delight of Tram 28 Ride during your trip.",
+        "imageUrl": "/images/activities/tram-28-tour.jpg"
+      },
+      {
+        "name": "Bel\u00e9m Tower",
+        "description": "Experience the delight of Bel\u00e9m Tower during your trip.",
+        "imageUrl": "/images/activities/belem-tower.jpg"
+      }
+    ],
+    "imageUrl": "/images/Lisbon.jpg",
+    "coordinates": {
+      "lat": 38.7223,
+      "lng": -9.1393
+    },
+    "weatherDescription": "Lisbon enjoys a mild Mediterranean climate. Summers are hot and dry, while winters are cool and rainy. The shoulder seasons are particularly pleasant for travel."
+  },
+  {
+  "id": 3,
+  "name": "Kyoto",
+  "country": "Japan",
+  "region": "Asia",
+  "budget": 900,
+  "travelType": "Cultural",
+  "bestTime": "March - May, October - November",
+  "activities": [
+    "Temple Visits",
+    "Cherry Blossom Viewing",
+    "Tea Ceremonies"
+  ],
+  "weather": "Temperate",
+  "travelTips": [
+    "Buy a transport day pass",
+    "Respect shrine etiquette",
+    "Book accommodations early during cherry blossom season"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Fushimi Inari Shrine",
+      "description": "Experience the delight of Fushimi Inari Shrine during your trip.",
+      "imageUrl": "/images/activities/Fushimi Inari Shrine.jpg"
+    },
+    {
+      "name": "Gion Walking Tour",
+      "description": "Experience the delight of Gion Walking Tour during your trip.",
+      "imageUrl": "/images/activities/Gion Walking Tour.jpg"
+    },
+    {
+      "name": "Arashiyama Bamboo Grove",
+      "description": "Experience the delight of Arashiyama Bamboo Grove during your trip.",
+      "imageUrl": "/images/activities/Arashiyama Bamboo Grove.jpg"
+    },
+    {
+      "name": "Kaiseki Dinner",
+      "description": "Experience the delight of Kaiseki Dinner during your trip.",
+      "imageUrl": "/images/activities/Kaiseki Dinner.jpg"
+    }
+  ],
+  "imageUrl": "/images/Kyoto.jpg",
+  "coordinates": {
+    "lat": 35.0116,
+    "lng": 135.7681
+  },
+  "weatherDescription": "Kyoto has four distinct seasons, with spring and autumn being the most picturesque and comfortable for travelers."
+},
+{
+  "id": 4,
+  "name": "Tulum",
+  "country": "Mexico",
+  "region": "North America",
+  "budget": 600,
+  "travelType": "Beach",
+  "bestTime": "November - April",
+  "activities": [
+    "Beach Relaxation",
+    "Cenote Swimming",
+    "Mayan Ruins"
+  ],
+  "weather": "Tropical",
+  "travelTips": [
+    "Bring eco-friendly sunscreen",
+    "Use pesos instead of USD",
+    "Avoid hurricane season"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Tulum Ruins",
+      "description": "Experience the delight of Tulum Ruins during your trip.",
+      "imageUrl": "/images/activities/tulum_ruins.jpg"
+    },
+    {
+      "name": "Gran Cenote",
+      "description": "Experience the delight of Gran Cenote during your trip.",
+      "imageUrl": "/images/activities/gran_cenote.jpg"
+    },
+    {
+      "name": "Beachfront Yoga",
+      "description": "Experience the delight of Beachfront Yoga during your trip.",
+      "imageUrl": "/images/activities/beach_yoga.jpg"
+    },
+    {
+      "name": "Sian Ka'an Biosphere",
+      "description": "Experience the delight of Sian Ka'an Biosphere during your trip.",
+      "imageUrl": "/images/activities/sian_kaan.jpg"
+    }
+  ],
+  "imageUrl": "/images/Tulum-2.jpg",
+  "coordinates": {
+    "lat": 20.2110,
+    "lng": -87.4653
+  },
+  "weatherDescription": "Tulum offers warm weather year-round with peak travel during the dry season. Rain is more common from June to October."
+},
+{
+  "id": 5,
+  "name": "Cape Town",
+  "country": "South Africa",
+  "region": "Africa",
+  "budget": 700,
+  "travelType": "Adventure",
+  "bestTime": "November - March",
+  "activities": [
+    "Hiking",
+    "Wildlife Tours",
+    "Beach Visits"
+  ],
+  "weather": "Mediterranean",
+  "travelTips": [
+    "Stay in safe areas",
+    "Use registered taxis or Uber",
+    "Pack layers for variable weather"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Table Mountain Hike",
+      "description": "Experience the delight of Table Mountain Hike during your trip.",
+      "imageUrl": "/images/activities/table_mountain.jpg"
+    },
+    {
+      "name": "Boulders Beach Penguins",
+      "description": "Experience the delight of Boulders Beach Penguins during your trip.",
+      "imageUrl": "/images/activities/boulders_beach.jpg"
+    },
+    {
+      "name": "Robben Island Tour",
+      "description": "Experience the delight of Robben Island Tour during your trip.",
+      "imageUrl": "/images/activities/robben_island.jpg"
+    },
+    {
+      "name": "Cape Winelands",
+      "description": "Experience the delight of Cape Winelands during your trip.",
+      "imageUrl": "/images/activities/cape_winelands.jpg"
+    }
+  ],
+  "imageUrl": "/images/Cape Town.jpg",
+  "coordinates": {
+    "lat": -33.9249,
+    "lng": 18.4241
+  },
+  "weatherDescription": "Cape Town has warm, dry summers and cool, wet winters. Summer months are ideal for beach and outdoor adventures."
+},
+{
+  "id": 6,
+  "name": "Queenstown",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "budget": 1100,
+  "travelType": "Adventure",
+  "bestTime": "December - February",
+  "activities": [
+    "Bungee Jumping",
+    "Skiing",
+    "Lake Cruises"
+  ],
+  "weather": "Temperate",
+  "travelTips": [
+    "Book adventure activities in advance",
+    "Rent a car to explore nearby towns",
+    "Pack layers"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Skyline Gondola",
+      "description": "Experience the delight of Skyline Gondola during your trip.",
+      "imageUrl": "/images/activities/skyline_gondola.jpg"
+    },
+    {
+      "name": "Shotover Jet Ride",
+      "description": "Experience the delight of Shotover Jet Ride during your trip.",
+      "imageUrl": "/images/activities/shotover_jet.jpg"
+    },
+    {
+      "name": "Milford Sound Cruise",
+      "description": "Experience the delight of Milford Sound Cruise during your trip.",
+      "imageUrl": "/images/activities/milford_sound.jpg"
+    }
+  ],
+  "imageUrl": "/images/Queenstown.jpg",
+  "coordinates": {
+    "lat": -45.0312,
+    "lng": 168.6626
+  },
+  "weatherDescription": "Queenstown has distinct seasons, with summer offering warm temperatures and winter being ideal for snow sports."
+},
+{
+  "id": 7,
+  "name": "Reykjavik",
+  "country": "Iceland",
+  "region": "Europe",
+  "budget": 1200,
+  "travelType": "Nature",
+  "bestTime": "June - August",
+  "activities": [
+    "Northern Lights",
+    "Hot Springs",
+    "Whale Watching"
+  ],
+  "weather": "Cold Oceanic",
+  "travelTips": [
+    "Pack thermal layers",
+    "Use Reykjavik City Card",
+    "Be prepared for sudden weather changes"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Blue Lagoon",
+      "description": "Experience the delight of Blue Lagoon during your trip.",
+      "imageUrl": "/images/activities/blue_lagoon.jpg"
+    },
+    {
+      "name": "Golden Circle Tour",
+      "description": "Experience the delight of Golden Circle Tour during your trip.",
+      "imageUrl": "/images/activities/golden_circle.jpg"
+    },
+    {
+      "name": "Northern Lights Hunt",
+      "description": "Experience the delight of Northern Lights Hunt during your trip.",
+      "imageUrl": "/images/activities/northern_lights.jpg"
+    }
+  ],
+  "imageUrl": "/images/Reykjavik.jpg",
+  "coordinates": {
+    "lat": 64.1265,
+    "lng": -21.8174
+  },
+  "weatherDescription": "Reykjavik has cool summers and long winters. Daylight hours vary drastically by season."
+},
+{
+  "id": 8,
+  "name": "Santorini",
+  "country": "Greece",
+  "region": "Europe",
+  "budget": 850,
+  "travelType": "Romantic",
+  "bestTime": "April - June, September - October",
+  "activities": [
+    "Sunset Views",
+    "Wine Tasting",
+    "Volcano Tours"
+  ],
+  "weather": "Mediterranean",
+  "travelTips": [
+    "Book sunset dinners in advance",
+    "Stay in Oia for iconic views",
+    "Use local buses or scooters"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Caldera Cruise",
+      "description": "Experience the delight of Caldera Cruise during your trip.",
+      "imageUrl": "/images/activities/caldera_cruise.jpg"
+    },
+    {
+      "name": "Oia Sunset Viewpoint",
+      "description": "Experience the delight of Oia Sunset Viewpoint during your trip.",
+      "imageUrl": "/images/activities/oia_sunset.jpg"
+    },
+    {
+      "name": "Santorini Vineyards",
+      "description": "Experience the delight of Santorini Vineyards during your trip.",
+      "imageUrl": "/images/activities/santorini_wine.jpg"
+    }
+  ],
+  "imageUrl": "/images/Santorini.jpg",
+  "coordinates": {
+    "lat": 36.3932,
+    "lng": 25.4615
+  },
+  "weatherDescription": "Santorini offers warm, dry summers and mild winters, with spring and fall being ideal for fewer crowds and great weather."
+},
+{
+  "id": 9,
+  "name": "Cusco",
+  "country": "Peru",
+  "region": "South America",
+  "budget": 700,
+  "travelType": "Historical",
+  "bestTime": "May - September",
+  "activities": [
+    "Hiking",
+    "Ruins Exploration",
+    "Cultural Tours"
+  ],
+  "weather": "Mountain",
+  "travelTips": [
+    "Acclimate to altitude",
+    "Carry cash for small vendors",
+    "Dress in layers"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Machu Picchu Day Trip",
+      "description": "Experience the delight of Machu Picchu Day Trip during your trip.",
+      "imageUrl": "/images/activities/machu_picchu.jpg"
+    },
+    {
+      "name": "Sacred Valley Tour",
+      "description": "Experience the delight of Sacred Valley Tour during your trip.",
+      "imageUrl": "/images/activities/sacred_valley.jpg"
+    },
+    {
+      "name": "San Pedro Market Visit",
+      "description": "Experience the delight of San Pedro Market Visit during your trip.",
+      "imageUrl": "/images/activities/san_pedro_market.jpg"
+    }
+  ],
+  "imageUrl": "/images/Cusco.jpg",
+  "coordinates": {
+    "lat": -13.5319,
+    "lng": -71.9675
+  },
+  "weatherDescription": "Cusco has dry winters and wet summers. Altitude affects temperature, so expect cool nights year-round."
+},
+{
+  "id": 10,
+  "name": "Marrakech",
+  "country": "Morocco",
+  "region": "Africa",
+  "budget": 600,
+  "travelType": "Cultural",
+  "bestTime": "March - May, September - November",
+  "activities": [
+    "Souk Shopping",
+    "Palace Visits",
+    "Desert Tours"
+  ],
+  "weather": "Arid",
+  "travelTips": [
+    "Dress modestly",
+    "Bargain in markets",
+    "Stay near Medina"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Jemaa el-Fnaa Square",
+      "description": "Experience the delight of Jemaa el-Fnaa Square during your trip.",
+      "imageUrl": "/images/activities/jemaa_el_fnaa.jpg"
+    },
+    {
+      "name": "Majorelle Garden",
+      "description": "Experience the delight of Majorelle Garden during your trip.",
+      "imageUrl": "/images/activities/majorelle_garden.jpg"
+    },
+    {
+      "name": "Atlas Mountains Day Trip",
+      "description": "Experience the delight of Atlas Mountains Day Trip during your trip.",
+      "imageUrl": "/images/activities/atlas_mountains.jpg"
+    }
+  ],
+  "imageUrl": "/images/Marrakech.jpg",
+  "coordinates": {
+    "lat": 31.6295,
+    "lng": -7.9811
+  },
+  "weatherDescription": "Hot, dry summers and mild winters. Spring and fall offer ideal weather for sightseeing."
+},
+{
+  "id": 11,
+  "name": "Banff",
+  "country": "Canada",
+  "region": "North America",
+  "budget": 900,
+  "travelType": "Nature",
+  "bestTime": "June - September",
+  "activities": [
+    "Hiking",
+    "Glacier Viewing",
+    "Hot Springs"
+  ],
+  "weather": "Mountain",
+  "travelTips": [
+    "Get a national park pass",
+    "Stay in Banff town for access",
+    "Book hotels early in summer"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Lake Louise Canoeing",
+      "description": "Experience the delight of Lake Louise Canoeing during your trip.",
+      "imageUrl": "/images/activities/lake_louise.jpg"
+    },
+    {
+      "name": "Banff Gondola Ride",
+      "description": "Experience the delight of Banff Gondola Ride during your trip.",
+      "imageUrl": "/images/activities/banff_gondola.jpg"
+    },
+    {
+      "name": "Johnston Canyon Hike",
+      "description": "Experience the delight of Johnston Canyon Hike during your trip.",
+      "imageUrl": "/images/activities/johnston_canyon.jpg"
+    }
+  ],
+  "imageUrl": "/images/banff.jpg",
+  "coordinates": {
+    "lat": 51.1784,
+    "lng": -115.5708
+  },
+  "weatherDescription": "Summers are cool and perfect for hiking. Winters are snowy and ideal for skiing."
+},
+{
+  "id": 12,
+  "name": "Istanbul",
+  "country": "Turkey",
+  "region": "Europe/Asia",
+  "budget": 700,
+  "travelType": "Historical",
+  "bestTime": "April - June, September - November",
+  "activities": [
+    "Mosque Visits",
+    "Bosphorus Cruises",
+    "Street Food Tours"
+  ],
+  "weather": "Mediterranean",
+  "travelTips": [
+    "Use Istanbulkart for transit",
+    "Stay in Sultanahmet for history",
+    "Try Turkish breakfast"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Hagia Sophia",
+      "description": "Experience the delight of Hagia Sophia during your trip.",
+      "imageUrl": "/images/activities/hagia_sophia.jpg"
+    },
+    {
+      "name": "Grand Bazaar",
+      "description": "Experience the delight of Grand Bazaar during your trip.",
+      "imageUrl": "/images/activities/grand_bazaar.jpg"
+    },
+    {
+      "name": "Bosphorus Ferry",
+      "description": "Experience the delight of Bosphorus Ferry during your trip.",
+      "imageUrl": "/images/activities/bosphorus_ferry.jpg"
+    }
+  ],
+  "imageUrl": "/images/istanbul.jpg",
+  "coordinates": {
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  "weatherDescription": "Hot summers and chilly winters. Spring and fall are most comfortable for travel."
+},
+{
+  "id": 13,
+  "name": "Dubai",
+  "country": "United Arab Emirates",
+  "region": "Asia",
+  "budget": 1200,
+  "travelType": "Luxury",
+  "bestTime": "November - March",
+  "activities": [
+    "Desert Safari",
+    "Luxury Shopping",
+    "Skyline Views"
+  ],
+  "weather": "Desert",
+  "travelTips": [
+    "Dress modestly in public",
+    "Use metro to avoid traffic",
+    "Stay hydrated"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Burj Khalifa Observation Deck",
+      "description": "Experience the delight of Burj Khalifa Observation Deck during your trip.",
+      "imageUrl": "/images/activities/burj_khalifa.jpg"
+    },
+    {
+      "name": "Desert Safari with BBQ",
+      "description": "Experience the delight of Desert Safari with BBQ during your trip.",
+      "imageUrl": "/images/activities/desert_safari.jpg"
+    },
+    {
+      "name": "Dubai Marina Yacht Cruise",
+      "description": "Experience the delight of Dubai Marina Yacht Cruise during your trip.",
+      "imageUrl": "/images/activities/yacht_cruise.jpg"
+    }
+  ],
+  "imageUrl": "/images/dubai.jpg",
+  "coordinates": {
+    "lat": 25.276987,
+    "lng": 55.296249
+  },
+  "weatherDescription": "Extremely hot in summer, with cooler, pleasant weather in winter — the best time to visit."
+},
+{
+  "id": 14,
+  "name": "Seoul",
+  "country": "South Korea",
+  "region": "Asia",
+  "budget": 750,
+  "travelType": "City",
+  "bestTime": "April - June, September - November",
+  "activities": [
+    "Palace Tours",
+    "Street Food",
+    "K-pop Culture"
+  ],
+  "weather": "Temperate",
+  "travelTips": [
+    "Use T-Money card for transit",
+    "Try Korean BBQ",
+    "Explore night markets"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Gyeongbokgung Palace",
+      "description": "Experience the delight of Gyeongbokgung Palace during your trip.",
+      "imageUrl": "/images/activities/gyeongbokgung.jpg"
+    },
+    {
+      "name": "N Seoul Tower",
+      "description": "Experience the delight of N Seoul Tower during your trip.",
+      "imageUrl": "/images/activities/n_seoul_tower.jpg"
+    },
+    {
+      "name": "Myeongdong Shopping",
+      "description": "Experience the delight of Myeongdong Shopping during your trip.",
+      "imageUrl": "/images/activities/myeongdong.jpg"
+    }
+  ],
+  "imageUrl": "/images/seoul.jpg",
+  "coordinates": {
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  "weatherDescription": "Spring and fall are ideal with mild weather. Winters can be very cold and dry."
+},
+{
+  "id": 15,
+  "name": "Barcelona",
+  "country": "Spain",
+  "region": "Europe",
+  "budget": 850,
+  "travelType": "Cultural",
+  "bestTime": "May - June, September - October",
+  "activities": [
+    "Architecture",
+    "Tapas Tasting",
+    "Beach"
+  ],
+  "weather": "Mediterranean",
+  "travelTips": [
+    "Watch for pickpockets",
+    "Try local tapas",
+    "Use TMB card for transport"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "La Sagrada Familia",
+      "description": "Experience the delight of La Sagrada Familia during your trip.",
+      "imageUrl": "/images/activities/sagrada_familia.jpg"
+    },
+    {
+      "name": "Park Güell",
+      "description": "Experience the delight of Park Güell during your trip.",
+      "imageUrl": "/images/activities/park_guell.jpg"
+    },
+    {
+      "name": "Barceloneta Beach",
+      "description": "Experience the delight of Barceloneta Beach during your trip.",
+      "imageUrl": "/images/activities/barceloneta.jpg"
+    }
+  ],
+  "imageUrl": "/images/Barcelona.jpg",
+  "coordinates": {
+    "lat": 41.3851,
+    "lng": 2.1734
+  },
+  "weatherDescription": "Warm summers and mild winters. Spring and early fall are perfect for avoiding crowds."
+},
+{
+  "id": 16,
+  "name": "Prague",
+  "country": "Czech Republic",
+  "region": "Europe",
+  "budget": 700,
+  "travelType": "Historical",
+  "bestTime": "May - September",
+  "activities": [
+    "Castle Tours",
+    "River Cruises",
+    "Old Town Exploration"
+  ],
+  "weather": "Continental",
+  "travelTips": [
+    "Stay near Old Town for walkability",
+    "Carry coins for trams",
+    "Learn a few Czech phrases"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Prague Castle",
+      "description": "Experience the delight of Prague Castle during your trip.",
+      "imageUrl": "/images/activities/prague_castle.jpg"
+    },
+    {
+      "name": "Charles Bridge Walk",
+      "description": "Experience the delight of Charles Bridge Walk during your trip.",
+      "imageUrl": "/images/activities/charles_bridge.jpg"
+    },
+    {
+      "name": "Vltava River Cruise",
+      "description": "Experience the delight of Vltava River Cruise during your trip.",
+      "imageUrl": "/images/activities/vltava_cruise.jpg"
+    }
+  ],
+  "imageUrl": "/images/prague.jpg",
+  "coordinates": {
+    "lat": 50.0755,
+    "lng": 14.4378
+  },
+  "weatherDescription": "Prague has pleasant summers and cold winters. Late spring and summer are best for sightseeing."
+},
+{
+  "id": 17,
+  "name": "Hoi An",
+  "country": "Vietnam",
+  "region": "Asia",
+  "budget": 500,
+  "travelType": "Cultural",
+  "bestTime": "February - April",
+  "activities": [
+    "Lantern Festivals",
+    "Tailor Shopping",
+    "Beach Biking"
+  ],
+  "weather": "Tropical",
+  "travelTips": [
+    "Rent a bike",
+    "Get clothes tailored",
+    "Stay near the Ancient Town"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Hoi An Ancient Town",
+      "description": "Experience the delight of Hoi An Ancient Town during your trip.",
+      "imageUrl": "/images/activities/hoi_an_old_town.jpg"
+    },
+    {
+      "name": "Lantern Festival",
+      "description": "Experience the delight of Lantern Festival during your trip.",
+      "imageUrl": "/images/activities/lantern_festival.jpg"
+    },
+    {
+      "name": "An Bang Beach",
+      "description": "Experience the delight of An Bang Beach during your trip.",
+      "imageUrl": "/images/activities/an_bang_beach.jpg"
+    }
+  ],
+  "imageUrl": "/images/hoi an.jpg",
+  "coordinates": {
+    "lat": 15.8801,
+    "lng": 108.338
+  },
+  "weatherDescription": "Tropical climate with a dry season from February to August. February–April is best for travel."
+},
+{
+  "id": 18,
+  "name": "Edinburgh",
+  "country": "Scotland",
+  "region": "Europe",
+  "budget": 850,
+  "travelType": "Historical",
+  "bestTime": "May - September",
+  "activities": [
+    "Castle Tours",
+    "Whisky Tastings",
+    "Festival Hopping"
+  ],
+  "weather": "Oceanic",
+  "travelTips": [
+    "Bring a waterproof jacket",
+    "Visit during Edinburgh Festival in August",
+    "Climb Arthur’s Seat for views"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Edinburgh Castle",
+      "description": "Experience the delight of Edinburgh Castle during your trip.",
+      "imageUrl": "/images/activities/edinburgh_castle.jpg"
+    },
+    {
+      "name": "Royal Mile Walk",
+      "description": "Experience the delight of Royal Mile Walk during your trip.",
+      "imageUrl": "/images/activities/royal_mile.jpg"
+    },
+    {
+      "name": "Scotch Whisky Experience",
+      "description": "Experience the delight of Scotch Whisky Experience during your trip.",
+      "imageUrl": "/images/activities/whisky_experience.jpg"
+    }
+  ],
+  "imageUrl": "/images/Edinburgh.jpg",
+  "coordinates": {
+    "lat": 55.9533,
+    "lng": -3.1883
+  },
+  "weatherDescription": "Cool and cloudy year-round. Summers are mild and festival season is lively."
+},
+{
+  "id": 19,
+  "name": "Buenos Aires",
+  "country": "Argentina",
+  "region": "South America",
+  "budget": 700,
+  "travelType": "City",
+  "bestTime": "March - May, September - November",
+  "activities": [
+    "Tango Shows",
+    "Local Markets",
+    "Architecture Walks"
+  ],
+  "weather": "Temperate",
+  "travelTips": [
+    "Use pesos, not USD",
+    "Stay in Palermo or Recoleta",
+    "Try local empanadas"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "La Boca Neighborhood",
+      "description": "Experience the delight of La Boca Neighborhood during your trip.",
+      "imageUrl": "/images/activities/la_boca.jpg"
+    },
+    {
+      "name": "Tango Dinner Show",
+      "description": "Experience the delight of Tango Dinner Show during your trip.",
+      "imageUrl": "/images/activities/tango_show.jpg"
+    },
+    {
+      "name": "Recoleta Cemetery",
+      "description": "Experience the delight of Recoleta Cemetery during your trip.",
+      "imageUrl": "/images/activities/recoleta.jpg"
+    }
+  ],
+  "imageUrl": "/images/Buenos Aires.jpg",
+  "coordinates": {
+    "lat": -34.6037,
+    "lng": -58.3816
+  },
+  "weatherDescription": "Pleasant weather in spring and fall. Summers can be hot and humid."
+},
+{
+  "id": 20,
+  "name": "Zanzibar",
+  "country": "Tanzania",
+  "region": "Africa",
+  "budget": 650,
+  "travelType": "Beach",
+  "bestTime": "June - October",
+  "activities": [
+    "Snorkeling",
+    "Stone Town Tour",
+    "Spice Plantation Visit"
+  ],
+  "weather": "Tropical",
+  "travelTips": [
+    "Respect local customs",
+    "Bring mosquito repellent",
+    "Use bottled water"
+  ],
+  "recommendedActivities": [
+    {
+      "name": "Stone Town Walking Tour",
+      "description": "Experience the delight of Stone Town Walking Tour during your trip.",
+      "imageUrl": "/images/activities/stone_town.jpg"
+    },
+    {
+      "name": "Prison Island Snorkeling",
+      "description": "Experience the delight of Prison Island Snorkeling during your trip.",
+      "imageUrl": "/images/activities/prison_island.jpg"
+    },
+    {
+      "name": "Spice Farm Tour",
+      "description": "Experience the delight of Spice Farm Tour during your trip.",
+      "imageUrl": "/images/activities/spice_farm.jpg"
+    }
+  ],
+  "imageUrl": "/images/zanzibar.jpg",
+  "coordinates": {
+    "lat": -6.1659,
+    "lng": 39.2026
+  },
+  "weatherDescription": "Warm and humid with a long dry season from June to October, ideal for beach travel."
+}
+]
